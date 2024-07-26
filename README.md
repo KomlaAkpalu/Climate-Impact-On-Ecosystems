@@ -37,7 +37,7 @@ To run this analysis:
 4. Execute the script `scripts/R_Script.R`.
 
 ## Conclusion
-The analyses conducted reveal significant insights into how environmental factors like temperature and forest management impact ecological productivity and microbial diversity. Key findings include a positive correlation between ANPP and temperature, and varied responses of fungal richness to soil temperature across different grasslands. These results are crucial for understanding ecosystem responses to climate variability and can inform conservation strategies.
+The analyses conducted reveal significant insights into how environmental factors like temperature and forest management impact ecological productivity and microbial diversity. Key findings include a positive correlation between ANPP and temperature, and varied responses of fungal richness to soil temperature across different grasslands.These results are crucial for understanding ecosystem responses to climate variability and can inform conservation strategies.
 
 ## Contact
 I'm always open to connecting with fellow data enthusiasts and professionals. Should you have any questions, suggestions, or just want to chat about this project, please reach out to me via julienakpalu2@gmail.com .
